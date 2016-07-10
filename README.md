@@ -24,7 +24,7 @@ clio/
     +-- test
     ¦   +-- ClioSpec.js //Test specs
     ¦   +-- SpecRunner.html //Displays test results
-+-- .gitignore
-+-- README.md
-+-- package.json
+	+-- .gitignore
+	+-- README.md
+	+-- package.json
 ```
