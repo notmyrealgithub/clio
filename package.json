@@ -1,0 +1,11 @@
+{
+  "name": "Clio",
+  "version": "1.0.0",
+  "description": "JS Clio",
+  "main": "index.js",
+  "devDependencies": {
+    "jasmine-core": "^2.0.0"
+  },
+  "author": "Hina",
+  "license": "ISC"
+}
